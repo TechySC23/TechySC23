@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @TechySC23 or Techy
 - 👀 I’m interested in computers, tech, windows customization, coding, etc.
-- 🌱 I’m currently learning how to use Git and GitHub for coding
+- 🌱 I’m currently learning AI, Git and Github, Markdown, Frontend development.
+- 😘 I love Git, Github, Tech, and AI
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm just too much interested in Tech!
 
