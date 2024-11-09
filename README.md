@@ -17,8 +17,9 @@ Languages (Coding):
 Browsers:
 - 💙 Favourite: Firefox (Developer Edition)
 - Firefox
-- Chrome Dev
-- Microsoft Edge
+- Thorium [https://thorium.rocks/]
+- Zen [https://zen-browser.app/]
+- Mercury [https://thorium.rocks/mercury]
 
 Tools:
 - 💙 Favourite: VS Code
