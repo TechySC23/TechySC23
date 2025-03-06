@@ -1,8 +1,8 @@
 # I am TechySC!
 
-1. 👋 Hi, I’m @TechySC23 or Techy
+1. 👋 Hi, I’m @TechySC23 or TechySC
 2. 👀 I’m interested in computers, tech, Windows customization, coding, etc.
-3. 🌱 I’m currently learning AI, Git and Github, Markdown, and Front-End development.
+3. 🌱 I’m currently learning AI, Manim, and more new things!
 4. 😘 I love Git, Github, Tech, and AI
 5. 😄 Pronouns: he/him
 6. ⚡ Fun fact: I love Tech!
@@ -21,6 +21,7 @@ Browsers:
 - 💙 Favourite: __**Zen**__ [https://zen-browser.app/]
 - Firefox (Developer Edition) (Former Fav)
 - Firefox
+- Floorp [https://floorp.app/en]
 - Thorium [https://thorium.rocks/]
 - Mercury [https://thorium.rocks/mercury]
 
@@ -28,19 +29,21 @@ Tools:
 - 💙 Favourite: VS Code
 - 💙 Favourite: Github
 - Git
-- (New!) PostCSS: <https://github.com/postcss/postcss>
-- (New!) Pieces: <https://pieces.app/>
+- Pieces: <https://pieces.app/>
+- PowerShell CORE 7
+- Microsoft PowerToys
 - GitLens: <https://www.gitkraken.com/gitlens>
 
 AI Tools:
 - 💙 Favourite: Gemini- <https://gemini.google.com>
-- Microsoft Copilot - <https://copilot.microsoft.com/>
+- Perplexity - <https://www.perplexity.ai/>
 - ChatGPT - <https://chat.openai.com/>
+- Microsoft Copilot - <https://copilot.microsoft.com/>
 
 AI for Coding:
-- 💙 Favourite: Codeium AI: <https://www.codeium.com/>
-- Tabnine AI: <https://app.tabnine.com/>
-- Cody AI: <https://sourcegraph.com/cody>
+- 💙 Favourite: Cody AI: <https://sourcegraph.com/cody>
+- Codeium AI: <https://www.codeium.com/>
+- GitHub Copilot (Free Tier)
 
 ### My cool song! (Made by Suno: <https://suno.com/>):-
 Digital Visions: https://audio.com/shreyas-chatterjee/audio/digital-visions-1
