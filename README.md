@@ -13,12 +13,15 @@
 Languages (Coding):
 1. HTML
 2. CSS
+3. JavaScript
+4. Python
+5. C++ (a bit but good)
 
 Browsers:
-- 💙 Favourite: Firefox (Developer Edition)
+- 💙 Favourite: __**Zen**__ [https://zen-browser.app/]
+- Firefox (Developer Edition) (Former Fav)
 - Firefox
 - Thorium [https://thorium.rocks/]
-- Zen [https://zen-browser.app/]
 - Mercury [https://thorium.rocks/mercury]
 
 Tools:
