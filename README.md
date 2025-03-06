@@ -32,6 +32,8 @@ Tools:
 - Pieces: <https://pieces.app/>
 - PowerShell CORE 7
 - Microsoft PowerToys
+- Notion
+- WinUtil (A.K.A CHRIS TITUS TOOLS!) <https://github.com/ChrisTitusTech/winutil>
 - GitLens: <https://www.gitkraken.com/gitlens>
 
 AI Tools:
