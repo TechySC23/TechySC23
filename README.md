@@ -1,7 +1,7 @@
-# I am TechySC!
+# I am NovaSpace!
 
-1. 👋 Hi, I’m NovaSpace or TechySC
-2. 👀 I’m interested in Computer science engineering, Windows customization, coding, Editing (Video and Audio both).
+1. 👋 Hi, I’m NovaSpace or TechySC (or Techy). 
+2. 👀 I’m interested in Computer Science Engineering , Windows Optimisation, Coding, Editing (Video and Audio both).
 3. 🌱 I’m currently learning Java, C#, C++, Manim, and more new things!
 4. 💙 I love Productivity enhancing apps, and also
 5. 😄 Pronouns: he/him
