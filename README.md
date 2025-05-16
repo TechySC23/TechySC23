@@ -1,8 +1,8 @@
 # I am TechySC!
 
 1. 👋 Hi, I’m @TechySC23 or TechySC
-2. 👀 I’m interested in computers, tech, Windows customization, coding, etc.
-3. 🌱 I’m currently learning AI, Manim, and more new things!
+2. 👀 I’m interested in Computer science engineering, Windows customization, coding, Editing (Video and Audio both).
+3. 🌱 I’m currently learning Java, C#, C++, Manim, and more new things!
 4. 😘 I love Git, Github, Tech, and AI
 5. 😄 Pronouns: he/him
 6. ⚡ Fun fact: I love Tech!
@@ -15,7 +15,8 @@ Languages (Coding):
 2. CSS
 3. JavaScript
 4. Python
-5. C++ (a bit but good)
+5. Java (I have learnt a lot through Minecraft Java, but learning more!)
+6. C++ (a bit but good)
 
 Browsers:
 - 💙 Favourite: __**Zen**__ [https://zen-browser.app/]
@@ -28,6 +29,7 @@ Browsers:
 Tools:
 - 💙 Favourite: VS Code
 - 💙 Favourite: Github
+- 💙 Flow Launcher <https://github.com/Flow-Launcher/Flow.Launcher>
 - Git
 - Pieces: <https://pieces.app/>
 - PowerShell CORE 7
@@ -40,11 +42,10 @@ AI Tools:
 - 💙 Favourite: Gemini- <https://gemini.google.com>
 - Perplexity - <https://www.perplexity.ai/>
 - ChatGPT - <https://chat.openai.com/>
-- Microsoft Copilot - <https://copilot.microsoft.com/>
 
 AI for Coding:
 - 💙 Favourite: Cody AI: <https://sourcegraph.com/cody>
-- Codeium AI: <https://www.codeium.com/>
+- Windsurf AI (extension): <https://www.windsurf.com/>
 - GitHub Copilot (Free Tier)
 
 ### My cool song! (Made by Suno: <https://suno.com/>):-
