@@ -1,9 +1,9 @@
 # I am TechySC!
 
-1. 👋 Hi, I’m @TechySC23 or TechySC
+1. 👋 Hi, I’m NovaSpace or TechySC
 2. 👀 I’m interested in Computer science engineering, Windows customization, coding, Editing (Video and Audio both).
 3. 🌱 I’m currently learning Java, C#, C++, Manim, and more new things!
-4. 😘 I love Git, Github, Tech, and AI
+4. 💙 I love Productivity enhancing apps, and also
 5. 😄 Pronouns: he/him
 6. ⚡ Fun fact: I love Tech!
 
@@ -19,12 +19,12 @@ Languages (Coding):
 6. C++ (a bit but good)
 
 Browsers:
-- 💙 Favourite: __**Zen**__ [https://zen-browser.app/]
+- 💙 Favourite: __**Zen**__ [https://zen-browser.app/] (Best and i use it personally)
 - Firefox (Developer Edition) (Former Fav)
 - Firefox
-- Floorp [https://floorp.app/en]
-- Thorium [https://thorium.rocks/]
-- Mercury [https://thorium.rocks/mercury]
+- Floorp [https://floorp.app/en] (Recommendation)
+- Thorium [https://thorium.rocks/] (Recommend this, its the fastest, But I use Opera instead of Chrome)
+- Mercury [https://thorium.rocks/mercury] (alternative to Firefox)
 
 Tools:
 - 💙 Favourite: VS Code
