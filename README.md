@@ -1,56 +1,46 @@
-# I am NovaSpace!
+# Hi, I'm TechySC23 👋🚀
 
-1. 👋 Hi, I’m NovaSpace or TechySC (or Techy). 
-2. 👀 I’m interested in Computer Science Engineering , Windows Optimisation, Coding, Editing (Video and Audio both).
-3. 🌱 I’m currently learning Java, C#, C++, Manim, and more new things!
-4. 💙 I love Productivity enhancing apps, and also
-5. 😄 Pronouns: he/him
-6. ⚡ Fun fact: I love Tech!
+Welcome to my GitHub profile! I'm a student and tech enthusiast who loves coding, web development, and video & audio editing. I blend my passion for technology with my interests in astronomy, aviation, and aerodynamics to bring fresh perspectives to my projects. 🌠
 
+---
 
-## Things that I use:
+## 🚀 About Me
 
-Languages (Coding):
-1. HTML
-2. CSS
-3. JavaScript
-4. Python
-5. Java (I have learnt a lot through Minecraft Java, but learning more!)
-6. C++ (a bit but good)
+- I’m currently exploring the world of coding and design. 💻
+- I’m passionate about creating clean, engaging digital experiences. 🎨
+- I enjoy utilizing both creativity and technology to innovate. 🔧
 
-Browsers:
-- 💙 Favourite: __**Zen**__ [https://zen-browser.app/] (Best and i use it personally)
-- Firefox (Developer Edition) (Former Fav)
-- Firefox
-- Floorp [https://floorp.app/en] (Recommendation)
-- Thorium [https://thorium.rocks/] (Recommend this, its the fastest, But I use Opera instead of Chrome)
-- Mercury [https://thorium.rocks/mercury] (alternative to Firefox)
+When I’m not immersed in tech, you can find me stargazing 🔭, diving into aviation ✈️, or exploring the wonders of aerodynamics. 🌬️
 
-Tools:
-- 💙 Favourite: VS Code
-- 💙 Favourite: Github
-- 💙 Flow Launcher <https://github.com/Flow-Launcher/Flow.Launcher>
-- Git
-- Pieces: <https://pieces.app/>
-- PowerShell CORE 7
-- Microsoft PowerToys
-- Notion
-- WinUtil (A.K.A CHRIS TITUS TOOLS!) <https://github.com/ChrisTitusTech/winutil>
-- GitLens: <https://www.gitkraken.com/gitlens>
+---
 
-AI Tools:
-- 💙 Favourite: Gemini- <https://gemini.google.com>
-- Perplexity - <https://www.perplexity.ai/>
-- ChatGPT - <https://chat.openai.com/>
+## 🔭 Projects
 
-AI for Coding:
-- 💙 Favourite: Cody AI: <https://sourcegraph.com/cody>
-- Windsurf AI (extension): <https://www.windsurf.com/>
-- GitHub Copilot (Free Tier)
+### Fluent11 for Flow Launcher
+A theme project (work in progress) aimed at creating a sleek and user-friendly interface for the Flow Launcher. Keep an eye out for updates as I refine and expand its capabilities! ✨
 
-### My cool song! (Made by Suno: <https://suno.com/>):-
-Digital Visions: https://audio.com/shreyas-chatterjee/audio/digital-visions-1
-<!---
-TechySC23/TechySC23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### LocalRepo
+An educational initiative that gathers diverse HTML, CSS, and JavaScript styles from across the internet to help teach web development to everyone. It’s a passion project dedicated to making coding more accessible and engaging. 📚💡
+
+---
+
+## 💻 Skills
+
+- **📝 Programming Languages:** HTML, CSS, JavaScript, Java, Python 
+- **🌐 Web Development:** Building modern, responsive websites 
+- **🎬🎧 Video & Audio Editing:** Crafting compelling visual and audio content
+- **📄 Graphic Design:** Making super beautiful Designs.
+
+---
+
+## 🛠️ Tools I Use
+
+- **🖥️ Dev Tools:** VS Code, GitHub, Git,
+- **🌍 Browsers:** Zen, Firefox Developer Edition, Opera 
+- **🔍 Productivity Tools:** Flow Launcher, Raycast, Everything, Microsoft PowerToys. 
+- **🤖 AI Tools:** Gemini from [AI Studio](https://aistudio.google.com/) (Favorite Model - Gemini 2.5 Pro)
+- **👨‍💻 AI for Coding:** GitHub Copilot (Free Tier), Cody AI, Windsurf AI. 
+
+---
+
+Thank you for stopping by and exploring my projects and interests. Let’s continue to innovate and reach for the stars together! 🌟🚀
